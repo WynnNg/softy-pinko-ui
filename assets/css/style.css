@@ -72,7 +72,7 @@
     align-items: center;
     background: url(../images/banner-bg.png);
     height: 100%;
-    background-position: center;
+    background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
 }
